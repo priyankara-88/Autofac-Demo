@@ -1,0 +1,12 @@
+D:\Repos\Learnings\Autofac-Demo\bin\Debug\Autofac-Demo.exe.config
+D:\Repos\Learnings\Autofac-Demo\bin\Debug\Autofac-Demo.exe
+D:\Repos\Learnings\Autofac-Demo\bin\Debug\Autofac-Demo.pdb
+D:\Repos\Learnings\Autofac-Demo\obj\Debug\Autofac-Demo.csprojAssemblyReference.cache
+D:\Repos\Learnings\Autofac-Demo\obj\Debug\Autofac-Demo.exe
+D:\Repos\Learnings\Autofac-Demo\obj\Debug\Autofac-Demo.pdb
+D:\Repos\Learnings\Autofac-Demo\bin\Debug\DemoLibrary.dll
+D:\Repos\Learnings\Autofac-Demo\bin\Debug\DemoLibrary.pdb
+D:\Repos\Learnings\Autofac-Demo\obj\Debug\Autofac-Demo.csproj.CopyComplete
+D:\Repos\Learnings\Autofac-Demo\bin\Debug\Autofac.dll
+D:\Repos\Learnings\Autofac-Demo\bin\Debug\Autofac.pdb
+D:\Repos\Learnings\Autofac-Demo\bin\Debug\Autofac.xml

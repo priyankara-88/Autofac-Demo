@@ -1,0 +1,7 @@
+D:\Repos\Learnings\Autofac-Demo\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.deps.json
+D:\Repos\Learnings\Autofac-Demo\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.dll
+D:\Repos\Learnings\Autofac-Demo\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.pdb
+D:\Repos\Learnings\Autofac-Demo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfoInputs.cache
+D:\Repos\Learnings\Autofac-Demo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfo.cs
+D:\Repos\Learnings\Autofac-Demo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.dll
+D:\Repos\Learnings\Autofac-Demo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.pdb

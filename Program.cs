@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Autofac;
+using DemoLibrary;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +12,15 @@ namespace Autofac_Demo
     {
         static void Main(string[] args)
         {
+            var container = ContainerConfig.Configure(); // Configures container
+
+            using(var scope = container.BeginLifetimeScope()) // Creating a new scope for life time
+            {
+                var app = scope.Resolve<IApplication>();
+                app.Run();
+            }
+
+            Console.ReadKey();
         }
     }
 }
